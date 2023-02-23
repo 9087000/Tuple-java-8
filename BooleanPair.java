@@ -11,8 +11,12 @@ public class BooleanPair {
 
         boolean res2 = pair.contains("Jack");
 
+	boolean res3 = pair.contains("Test");
+
         System.out.println(res1);
 
         System.out.println(res2);
+
+	System.out.println(res3);
     }
 }
